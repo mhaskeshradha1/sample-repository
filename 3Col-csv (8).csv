@@ -1,0 +1,291 @@
+Line Name,Station Name,Evening_Train,train_number,train_actual_time,WorkDay,train_hour_24,train_late_by_min
+NJ TRANSIT - NEC,Trenton,FALSE,3930,811,workday,8,60+
+NJ TRANSIT - MOBO,Hoboken,TRUE,275,1755,workday,17,60+
+NJ TRANSIT - MOBO,MSU,TRUE,250,1633,workday,16,60+
+NJ TRANSIT - NEC,PSNY,TRUE,3165,1650,workday,16,60+
+NJ TRANSIT - NEC,Trenton,TRUE,3954,1459,workday,14,60+
+NJ TRANSIT - PVL,Spring Valley,TRUE,1628,1338,workday,13,60+
+NJ TRANSIT - NEC,Trenton,FALSE,7818,818,holiday,8,60+
+NJ TRANSIT - ME,PSNY,TRUE,6355,1818,workday,18,60+
+NJ TRANSIT - ME,Summit,FALSE,312,732,workday,7,60+
+NJ TRANSIT - MBPJ,Port Jervis,FALSE,44,435,workday,4,60+
+NJ TRANSIT - ME,Gladstone,FALSE,408,614,workday,6,60+
+NJ TRANSIT - ME,PSNY,TRUE,6355,1818,workday,18,60+
+NJ TRANSIT - NEC,PSNY,TRUE,3949,1703,workday,17,60+
+NJ TRANSIT - RVL,High Bridge,TRUE,5742,1500,workday,15,60+
+NJ TRANSIT - NEC,New Brunswick,TRUE,3154,1503,workday,15,60+
+NJ TRANSIT - MBPJ,Port Jervis,FALSE,48,534,workday,5,60+
+NJ TRANSIT - ME,Dover,TRUE,6668,1827,workday,18,60+
+NJ TRANSIT - NEC,Trenton,FALSE,3930,811,workday,8,60+
+NJ TRANSIT - ME,Mount Olive,FALSE,852,607,workday,6,60+
+NJ TRANSIT - ME,Morristown,FALSE,608,604,workday,6,60+
+NJ TRANSIT - ME,Hoboken,FALSE,301,445,workday,4,60+
+NJ TRANSIT - NEC,PSNY,TRUE,3861,1630,workday,16,60+
+NJ TRANSIT - PVL,Hoboken,TRUE,1623,1557,workday,15,60+
+NJ TRANSIT - ME,Dover,FALSE,6636,1049,workday,10,60+
+NJ TRANSIT - MBPJ,Hoboken,FALSE,1309,1029,workday,10,60+
+NJ TRANSIT - PVL,Hoboken,TRUE,1611,2315,workday,23,60+
+NJ TRANSIT - PVL,Anderson Street,FALSE,1650,852,workday,8,60+
+NJ TRANSIT - MBPJ,Waldwick,FALSE,1258,818,workday,8,60+
+NJ TRANSIT - RVL,Plainfield,FALSE,5902,832,workday,8,60+
+NJ TRANSIT - ME,PSNY,FALSE,6611,749,workday,7,60+
+NJ TRANSIT - ME,Gladstone,FALSE,418,956,workday,9,60+
+NJ TRANSIT - PVL,Spring Valley,FALSE,1620,803,workday,8,60+
+NJ TRANSIT - ME,Morristown,FALSE,608,604,workday,6,60+
+NJ TRANSIT - MBPJ,Port Jervis ,FALSE,50,552,workday,5,60+
+NJ TRANSIT - NEC,Trenton,FALSE,3704,602,workday,6,60+
+NJ TRANSIT - ME,Gladstone,FALSE,404,541,workday,5,60+
+NJ TRANSIT - MBPJ,Hoboken,TRUE,1153,2339,workday,23,60+
+NJ TRANSIT - ME,Summit,FALSE,408,701,workday,7,60+
+NJ TRANSIT - NEC,PSNY,FALSE,3705,631,workday,6,60+
+NJ TRANSIT - MBPJ,Waldwick,FALSE,1254,740,workday,7,60+
+NJ TRANSIT - NEC,PSNY,FALSE,3813,507,workday,5,60+
+NJ TRANSIT - NJCL,Secaucus,TRUE,3373,1812,workday,18,< 20
+NJ TRANSIT - ME,Morristown,TRUE,660,1638,workday,16,< 20
+NJ TRANSIT - NEC,Edison,TRUE,3849,1500,workday,15,< 20
+NJ TRANSIT - NJCL,Linden,TRUE,3243,1318,workday,13,< 20
+NJ TRANSIT - NEC,Rahway,TRUE,3843,1316,workday,13,< 20
+NJ TRANSIT - ME,Maplewood,FALSE,413,1014,workday,10,< 20
+NJ TRANSIT - ME,NYPS,FALSE,6666,714,workday,7,< 20
+NJ TRANSIT - NJCL,South Amboy,TRUE,3373,1851,workday,18,< 20
+NJ TRANSIT - NJCL,Newark Airport,TRUE,3515,1843,workday,18,< 20
+NJ TRANSIT - ME,Broad St,TRUE,424,1414,workday,14,< 20
+NJ TRANSIT - NJCL,Woodbridge,TRUE,3248,1342,workday,13,< 20
+NJ TRANSIT - MOBO,Bay Street,TRUE,6233,2304,workday,23,< 20
+NJ TRANSIT - NJCL,Long Branch,FALSE,3227,1024,workday,10,< 20
+NJ TRANSIT - NEC,Metropark,TRUE,3883,2056,workday,20,< 20
+NJ TRANSIT - NEC,Princeton Junction,TRUE,3951,1807,workday,18,< 20
+NJ TRANSIT - ME,East Orange,TRUE,432,1744,workday,17,< 20
+NJ TRANSIT - ME,Brick Church,TRUE,6662,1816,workday,18,< 20
+NJ TRANSIT - NEC,Elizabeth,TRUE,3840,1228,workday,24,< 20
+NJ TRANSIT - ME,Newark Broad St.,TRUE,6648,1238,workday,15,< 20
+NJ TRANSIT - ME,Brick Church,TRUE,6635,1206,workday,14,< 20
+NJ TRANSIT - NJCL,Asbury Park,TRUE,4335,1255,workday,24,< 20
+NJ TRANSIT - NEC,Princeton Junction,TRUE,3842,1205,workday,24,< 20
+NJ TRANSIT - NJCL,Hazlet,FALSE,3235,1207,workday,11,< 20
+NJ TRANSIT - MOBO,Watsessing Ave.,FALSE,6219,1231,workday,8,< 20
+NJ TRANSIT - NEC,Jersey Ave,FALSE,3702,1219,workday,5,< 20
+NJ TRANSIT - ME,Summit,TRUE,6653,1238,workday,18,< 20
+NJ TRANSIT - ME,Secaucus,TRUE,6662,1256,workday,18,< 20
+NJ TRANSIT - NEC,Princeton,FALSE,3861,1238,workday,5,< 20
+NJ TRANSIT - NJCL,Long Branch,TRUE,4753,1646,holiday,16,< 20
+NJ TRANSIT - NJCL,Perth Amboy,TRUE,7253,1600,holiday,16,< 20
+NJ TRANSIT - NEC,Edison,TRUE,7847,1444,holiday,14,< 20
+NJ TRANSIT - RVL,Roselle Park,TRUE,5520,1359,holiday,13,< 20
+NJ TRANSIT - NJCL,Aberdeen-Matawan,FALSE,7233,1113,holiday,11,< 20
+NJ TRANSIT - ME,Newark Broad St.,FALSE,6620,837,workday,8,< 20
+NJ TRANSIT - RVL,Dunellen,TRUE,5749,2012,workday,20,< 20
+NJ TRANSIT - NEC,Rahway,TRUE,3154,1524,workday,15,< 20
+NJ TRANSIT - MOBO,Walnut Street,TRUE,6241,1307,workday,13,< 20
+NJ TRANSIT - MBPJ,Salisbury Mills,FALSE,43,947,workday,9,< 20
+NJ TRANSIT - MBPJ,Hoboken,FALSE,1107,733,workday,7,< 20
+NJ TRANSIT - MBPJ,Secaucus,FALSE,46,701,workday,7,< 20
+NJ TRANSIT - ME,Morristown,TRUE,6664,1734,workday,17,< 20
+NJ TRANSIT - ME,Morris Plains,TRUE,853,1655,workday,16,< 20
+NJ TRANSIT - ME,Basking Ridge,FALSE,420,1109,workday,11,< 20
+NJ TRANSIT - MOBO,Bay Street,FALSE,6219,847,workday,8,< 20
+NJ TRANSIT - NEC,Princeton Junction,TRUE,3949,1755,workday,17,< 20
+NJ TRANSIT - ME,Morris Plains,FALSE,6610,610,workday,6,< 20
+NJ TRANSIT - RVL,Annandale,TRUE,5742,1504,workday,15,< 20
+NJ TRANSIT - RVL,Metropark,TRUE,5439,1742,workday,17,< 20
+NJ TRANSIT - NEC,Secaucus,FALSE,3710,809,workday,8,< 20
+NJ TRANSIT - ME,PSNY,FALSE,6611,749,workday,7,< 20
+NJ TRANSIT - MBPJ,Clifton,TRUE,1223,1818,workday,18,< 20
+NJ TRANSIT - RVL,Metropark,TRUE,5441,1805,workday,18,< 20
+NJ TRANSIT - NEC,Secaucus,TRUE,3727,1747,workday,17,< 20
+NJ TRANSIT - ME,East Orange,TRUE,6343,1706,workday,17,< 20
+NJ TRANSIT - PVL,Hillsdale,FALSE,1624,1112,workday,11,< 20
+NJ TRANSIT - MBPJ,Sloatsburg,FALSE,45,1058,workday,10,< 20
+NJ TRANSIT - ME,Brick Church,TRUE,6662,1747,workday,17,< 20
+NJ TRANSIT - NEC,Metropark,TRUE,3861,1716,workday,17,< 20
+NJ TRANSIT - MBPJ,Rutherford,FALSE,1247,742,workday,7,< 20
+NJ TRANSIT - PVL,Teterboro,TRUE,1641,1952,workday,19,< 20
+NJ TRANSIT - NEC,Secaucus,FALSE,3716,911,workday,9,< 20
+NJ TRANSIT - NEC,Edison,FALSE,3827,921,workday,9,< 20
+NJ TRANSIT - MBPJ,Secaucus,FALSE,46,701,workday,7,< 20
+NJ TRANSIT - ME,South Orange,FALSE,6305,636,workday,6,< 20
+NJ TRANSIT - NEC,Secaucus,FALSE,3815,620,workday,6,< 20
+NJ TRANSIT - ME,Maplewood,FALSE,6607,812,workday,8,< 20
+NJ TRANSIT - NEC,Metropark,FALSE,7829,957,holiday,9,< 20
+NJ TRANSIT - NEC,Metropark,FALSE,3829,937,workday,9,< 20
+NJ TRANSIT - PVL,Secaucus,FALSE,1614,826,workday,8,< 20
+NJ TRANSIT - ME,Millburn,FALSE,481,738,workday,7,< 20
+NJ TRANSIT - ME,Broad St,TRUE,6671,2110,workday,21,< 20
+NJ TRANSIT - MOBO,Little Falls,TRUE,1011,1919,workday,19,< 20
+NJ TRANSIT - MOBO,Glen Ridge,TRUE,6283,1914,workday,19,< 20
+NJ TRANSIT - NEC,Princeton Junction,FALSE,3829,1031,workday,10,< 20
+NJ TRANSIT - ME,Newark Broad St.,FALSE,6328,1019,workday,10,< 20
+NJ TRANSIT - NJCL,Middletown,FALSE,3227,958,workday,9,< 20
+NJ TRANSIT - NEC,PSNY,FALSE,3915,839,workday,8,< 20
+NJ TRANSIT - NEC,Metropark,FALSE,3709,804,workday,8,< 20
+NJ TRANSIT - NEC,Metropark,FALSE,3821,731,workday,7,< 20
+NJ TRANSIT - RVL,Hoboken,FALSE,2406,629,workday,6,< 20
+NJ TRANSIT - MOBO,Watchung Ave,FALSE,6204,601,workday,6,< 20
+NJ TRANSIT - NEC,Edison,TRUE,3876,2029,workday,20,< 20
+NJ TRANSIT - NEC,Metropark,TRUE,3875,1905,workday,19,< 20
+NJ TRANSIT - NEC,PSNY,TRUE,3961,1839,workday,18,< 20
+NJ TRANSIT - NJCL,Newark Airport,TRUE,3270,1840,workday,18,< 20
+NJ TRANSIT - NJCL,Secaucus,TRUE,3269,1755,workday,17,< 20
+NJ TRANSIT - NEC,Secaucus,TRUE,3955,1752,workday,17,< 20
+NJ TRANSIT - NJCL,PSNY,TRUE,3269,1745,workday,17,< 20
+NJ TRANSIT - MOBO,Glen Ridge,TRUE,6245,1401,workday,14,< 20
+NJ TRANSIT - NEC,NPS,TRUE,3843,1255,workday,24,< 20
+NJ TRANSIT - ME,Newark Broad St.,TRUE,6625,1205,workday,24,< 20
+NJ TRANSIT - NJCL,EWR,TRUE,3239,1207,workday,24,< 20
+NJ TRANSIT - NEC,NPS,FALSE,3839,1155,workday,11,< 20
+NJ TRANSIT - MOBO,Secaucus,FALSE,6226,1139,workday,11,< 20
+NJ TRANSIT - NEC,Secaucus,FALSE,3836,1131,workday,11,< 20
+NJ TRANSIT - ME,Newark Broad St.,FALSE,6628,1003,workday,10,< 20
+NJ TRANSIT - NJCL,South Amboy,FALSE,3504,737,workday,7,< 20
+NJ TRANSIT - MOBO,Montclair Heights,TRUE,6274,2114,workday,21,< 20
+NJ TRANSIT - ME,Far Hills,TRUE,439,2006,workday,20,< 20
+NJ TRANSIT - NEC,Princeton Junction,TRUE,3855,1640,workday,16,< 20
+NJ TRANSIT - PVL,Nanuet,TRUE,1630,1450,workday,14,< 20
+NJ TRANSIT - ME,Secaucus,FALSE,6625,1156,workday,11,< 20
+NJ TRANSIT - NJCL,Secaucus,FALSE,3239,1153,workday,11,< 20
+NJ TRANSIT - ME,South Orange,FALSE,6332,1042,workday,10,< 20
+NJ TRANSIT - ME,PSNY,FALSE,6317,922,workday,9,< 20
+NJ TRANSIT - NEC,Metuchen,TRUE,3723,1707,workday,17,< 20
+NJ TRANSIT - NEC,Metropark,TRUE,3721,1647,workday,16,< 20
+NJ TRANSIT - NEC,Edison,TRUE,3845,1357,workday,13,< 20
+NJ TRANSIT - MOBO,PSNY,TRUE,6245,1329,workday,13,< 20
+NJ TRANSIT - NEC,Edison,TRUE,3839,1231,workday,24,< 20
+NJ TRANSIT - PVL,Essex St.,FALSE,1611,1142,workday,11,< 20
+NJ TRANSIT - NEC,Edison,FALSE,3833,1052,workday,10,< 20
+NJ TRANSIT - ME,Orange,FALSE,6332,1046,workday,10,< 20
+NJ TRANSIT - NEC,PSNY,TRUE,3829,2119,workday,21,< 20
+NJ TRANSIT - ME,Millington,TRUE,435,1859,workday,18,< 20
+NJ TRANSIT - NEC,SEC,FALSE,3818,737,workday,7,< 20
+NJ TRANSIT - NEC,Secaucus,TRUE,7851,1506,holiday,15,< 20
+NJ TRANSIT - NEC,Metropark,FALSE,7837,1132,holiday,11,< 20
+NJ TRANSIT - RVL,Roselle Park,FALSE,5514,1059,holiday,10,< 20
+NJ TRANSIT - NEC,Princeton Junction,FALSE,3829,1031,workday,10,< 20
+NJ TRANSIT - ME,Newark Broad St.,FALSE,6324,921,workday,9,< 20
+NJ TRANSIT - MBPJ,Glen Rock,FALSE,42,531,workday,5,< 20
+NJ TRANSIT - NEC,Metuchen,FALSE,3827,917,workday,9,< 20
+NJ TRANSIT - MOBO,PSNY,FALSE,6214,859,workday,8,< 20
+NJ TRANSIT - ME,Brick Church,FALSE,6318,812,workday,8,< 20
+NJ TRANSIT - NEC,New Brunswick,TRUE,3963,1956,workday,19,< 20
+NJ TRANSIT - ME,Lyons,FALSE,413,1051,workday,10,< 20
+NJ TRANSIT - MBPJ,Harriman,TRUE,64,1442,workday,14,< 20
+NJ TRANSIT - MBPJ,Salisbury Mills,TRUE,62,1219,workday,24,< 20
+NJ TRANSIT - MBPJ,Hoboken,FALSE,1147,759,workday,7,< 20
+NJ TRANSIT - MBPJ,Waldwick,FALSE,1252,709,workday,7,< 20
+NJ TRANSIT - ME,South Orange,FALSE,808,844,workday,8,< 20
+NJ TRANSIT - ME,Newark Broad St.,FALSE,6315,843,workday,8,< 20
+NJ TRANSIT - PVL,Secaucus,TRUE,1628,1426,workday,14,< 20
+NJ TRANSIT - PVL,Hoboken,FALSE,1607,957,workday,9,< 20
+NJ TRANSIT - NEC,Metropark,FALSE,3827,912,workday,9,< 20
+NJ TRANSIT - RVL,Bound Brook,TRUE,5749,2018,workday,20,< 20
+NJ TRANSIT - PVL,Wood-Ridge,TRUE,1627,1722,workday,17,< 20
+NJ TRANSIT - MBPJ,Radburn,TRUE,1165,1719,workday,17,< 20
+NJ TRANSIT - NEC,PSNY,FALSE,3821,714,workday,7,< 20
+NJ TRANSIT - ME,Chatham,TRUE,6663,2008,workday,20,< 20
+NJ TRANSIT - ME,Maplewood,TRUE,432,1730,workday,17,< 20
+NJ TRANSIT - RVL,Somerville,TRUE,5444,1611,workday,16,< 20
+NJ TRANSIT - NEC,New Brunswick,TRUE,3937,1539,workday,15,< 20
+NJ TRANSIT - RVL,Union,FALSE,5719,1015,workday,10,< 20
+NJ TRANSIT - MBPJ,Hoboken,FALSE,43,828,workday,8,< 20
+NJ TRANSIT - ME,Newark Broad St.,FALSE,6632,1103,workday,11,< 20
+NJ TRANSIT - PVL,Secaucus,FALSE,1605,907,workday,9,< 20
+NJ TRANSIT - MBPJ,Secaucus,FALSE,1149,902,workday,9,< 20
+NJ TRANSIT - MBPJ,Paterson,FALSE,1214,1008,workday,10,< 20
+NJ TRANSIT - MBPJ,Otisville,FALSE,52,626,workday,6,< 20
+NJ TRANSIT - NEC,Jersey Ave,FALSE,3831,1040,workday,10,< 20
+NJ TRANSIT - RVL,Metropark,TRUE,5749,1935,workday,19,< 20
+NJ TRANSIT - PVL,Secaucus,FALSE,1620,908,workday,9,< 20
+NJ TRANSIT - RVL,Metropark,TRUE,5521,1238,holiday,24,< 20
+NJ TRANSIT - NEC,Metropark,TRUE,3959,1832,workday,18,< 20
+NJ TRANSIT - RVL,Union,TRUE,5749,1944,workday,19,< 20
+NJ TRANSIT - RVL,Roselle Park,TRUE,5450,1921,workday,19,< 20
+NJ TRANSIT - MBPJ,Ramsey Route 17,FALSE,46,632,workday,6,< 20
+NJ TRANSIT - NEC,Metropark,TRUE,7859,1732,holiday,17,< 20
+NJ TRANSIT - NJCL,Newark Airport,TRUE,3270,1840,workday,18,< 20
+NJ TRANSIT - NJCL,PSNY,TRUE,3513,1725,workday,17,< 20
+NJ TRANSIT - NJCL,Long Branch,TRUE,4343,1426,workday,14,< 20
+NJ TRANSIT - NJCL,Elizabeth,TRUE,3243,1312,workday,13,< 20
+NJ TRANSIT - ME,Newark Broad St.,FALSE,417,1136,workday,11,< 20
+NJ TRANSIT - MOBO,NBS,FALSE,6237,1149,workday,11,< 20
+NJ TRANSIT - NJCL,Long Branch,FALSE,3217,754,workday,7,< 20
+NJ TRANSIT - ME,PSNY,FALSE,6607,707,workday,7,< 20
+NJ TRANSIT - MBPJ,Campbell Hall,TRUE,47,1423,workday,14,< 20
+NJ TRANSIT - NEC,Metropark,TRUE,3721,1647,workday,16,< 20
+NJ TRANSIT - NJCL,Middletown,TRUE,3272,1850,workday,18,< 20
+NJ TRANSIT - NEC,Trenton,TRUE,3850,1344,workday,13,< 20
+NJ TRANSIT - RVL,Bridgewater,FALSE,5421,1153,workday,11,< 20
+NJ TRANSIT - RVL,Cranford,TRUE,5525,1455,holiday,14,< 20
+NJ TRANSIT - MBPJ,Harriman,FALSE,58,1029,workday,10,< 20
+NJ TRANSIT - MBPJ,Hoboken,FALSE,1205,833,workday,8,< 20
+NJ TRANSIT - ME,Gladstone,FALSE,6410,632,workday,6,< 20
+NJ TRANSIT - ME,Short Hills,TRUE,6644,1340,workday,13,< 20
+NJ TRANSIT - MBPJ,Waldwick,FALSE,1210,833,workday,8,< 20
+NJ TRANSIT - MBPJ,Secaucus,FALSE,54,900,workday,9,< 20
+NJ TRANSIT - PVL,Emerson,TRUE,2111,1256,holiday,24,< 20
+NJ TRANSIT - MBPJ,Middletown,FALSE,48,603,workday,6,< 20
+NJ TRANSIT - RVL,Metropark,TRUE,5445,1833,workday,18,< 20
+NJ TRANSIT - ME,Short Hills,TRUE,6643,1722,workday,17,< 20
+NJ TRANSIT - NEC,PSNY,FALSE,3831,937,workday,9,< 20
+NJ TRANSIT - PVL,Spring Valley,FALSE,1616,737,workday,7,< 20
+NJ TRANSIT - RVL,Cranford,TRUE,5523,1355,holiday,13,< 20
+NJ TRANSIT - ME,South Orange,FALSE,411,928,workday,9,< 20
+NJ TRANSIT - MBPJ,Hoboken,FALSE,43,828,workday,8,< 20
+NJ TRANSIT - ME,Secaucus,FALSE,6613,811,workday,8,< 20
+NJ TRANSIT - ME,PSNY,FALSE,6621,1046,workday,10,< 20
+NJ TRANSIT - ME,Summit,FALSE,481,746,workday,7,< 20
+NJ TRANSIT - ME,Far Hills,FALSE,411,1018,workday,10,< 20
+NJ TRANSIT - NEC,Edison,FALSE,3714,806,workday,8,< 20
+NJ TRANSIT - NEC,New Brunswick,FALSE,3714,801,workday,8,< 20
+NJ TRANSIT - RVL,Bridgewater,FALSE,5516,1123,holiday,11,< 20
+NJ TRANSIT - NEC,Newark,FALSE,3821,731,workday,7,< 20
+NJ TRANSIT - ME,Summit,FALSE,408,701,workday,7,< 20
+NJ TRANSIT - MBPJ,Plauderville,FALSE,42,543,workday,5,< 20
+NJ TRANSIT - NEC,Edison,TRUE,7852,1734,holiday,17,20 to 40
+NJ TRANSIT - NJCL,South Amboy,TRUE,3373,1851,workday,18,20 to 40
+NJ TRANSIT - NEC,Jersey Ave,TRUE,3849,1509,workday,15,20 to 40
+NJ TRANSIT - NEC,Edison,TRUE,3876,2029,workday,20,20 to 40
+NJ TRANSIT - MOBO,Secaucus,FALSE,6226,1139,workday,11,20 to 40
+NJ TRANSIT - ME,Gladstone,TRUE,430,1541,workday,15,20 to 40
+NJ TRANSIT - NEC,New Brunswick,TRUE,3861,1729,workday,17,20 to 40
+NJ TRANSIT - NEC,Metropark,TRUE,3721,1647,workday,16,20 to 40
+NJ TRANSIT - NJCL,PSNY,FALSE,3231,946,workday,9,20 to 40
+NJ TRANSIT - NJCL,Secaucus,FALSE,3504,835,workday,8,20 to 40
+NJ TRANSIT - RVL,Union,FALSE,2406,556,workday,5,20 to 40
+NJ TRANSIT - NEC,PSNY,FALSE,3936,1033,workday,10,20 to 40
+NJ TRANSIT - PVL,River Edge,TRUE,2119,1653,holiday,16,20 to 40
+NJ TRANSIT - PVL,Spring Valley,TRUE,2114,1403,holiday,14,20 to 40
+NJ TRANSIT - RVL,Annandale,FALSE,5718,645,workday,6,20 to 40
+NJ TRANSIT - ME,Broad St,TRUE,6667,2022,workday,20,20 to 40
+NJ TRANSIT - ME,Summit,FALSE,6332,1028,workday,10,20 to 40
+NJ TRANSIT - ME,PSNY,FALSE,6620,855,workday,8,20 to 40
+NJ TRANSIT - RVL,NPS,TRUE,5521,1238,holiday,24,20 to 40
+NJ TRANSIT - NEC,Newark Airport,FALSE,7826,1124,holiday,11,20 to 40
+NJ TRANSIT - NEC,New Brunswick,FALSE,7828,1127,holiday,11,20 to 40
+NJ TRANSIT - NEC,Metropark,TRUE,7859,1732,holiday,17,20 to 40
+NJ TRANSIT - NEC,Secaucus,FALSE,3836,1131,workday,11,20 to 40
+NJ TRANSIT - NJCL,NJCL,FALSE,3217,754,workday,7,20 to 40
+NJ TRANSIT - RVL,Metropark,FALSE,5718,803,workday,8,20 to 40
+NJ TRANSIT - MBPJ,Ridgewood,TRUE,1274,1739,workday,17,20 to 40
+NJ TRANSIT - ME,Chatham,TRUE,6639,1614,workday,16,20 to 40
+NJ TRANSIT - MBPJ,Ridgewood,FALSE,1147,841,workday,8,20 to 40
+NJ TRANSIT - ME,PSNY,FALSE,6670,827,workday,8,20 to 40
+NJ TRANSIT - PVL,Teterboro,TRUE,1641,1952,workday,19,20 to 40
+NJ TRANSIT - ME,South Orange,FALSE,312,749,workday,7,20 to 40
+NJ TRANSIT - RVL,High Bridge,FALSE,5730,918,workday,9,20 to 40
+NJ TRANSIT - MBPJ,Suffern,TRUE,1726,1808,holiday,18,20 to 40
+NJ TRANSIT - MBPJ,Otisville,FALSE,56,802,workday,8,20 to 40
+NJ TRANSIT - RVL,Bridgewater,FALSE,5516,1123,holiday,11,20 to 40
+NJ TRANSIT - MBPJ,Campbell Hall,FALSE,71,1052,holiday,10,20 to 40
+NJ TRANSIT - RVL,NPS,TRUE,5749,1935,workday,19,20 to 40
+NJ TRANSIT - MBPJ,Middletown,FALSE,56,813,workday,8,20 to 40
+NJ TRANSIT - PVL,Spring Valley,TRUE,2114,1403,holiday,14,20 to 40
+NJ TRANSIT - RVL,Annandale,FALSE,5718,645,workday,6,60+
+NJ TRANSIT - NEC,Trenton,TRUE,3882,2109,workday,21,20 to 40
+NJ TRANSIT - MBPJ,Port Jervis,FALSE,46,503,workday,5,40 to 60
+NJ TRANSIT - RVL,Fanwood,TRUE,5743,1848,workday,18,40 to 60
+NJ TRANSIT - MOBO,Dover,FALSE,1074,855,workday,8,40 to 60
+NJ TRANSIT - RVL,High Bridge,FALSE,5714,612,workday,6,40 to 60
+NJ TRANSIT - RVL,Lebanon,FALSE,5718,649,workday,6,40 to 60
+NJ TRANSIT - PVL,Wood-Ridge,TRUE,1627,1722,workday,17,40 to 60
+NJ TRANSIT - ME,Newark Broad St.,FALSE,6317,940,workday,9,40 to 60
+NJ TRANSIT - RVL,Roselle Park,FALSE,5730,1031,workday,10,40 to 60
+NJ TRANSIT - RVL,Cranford,FALSE,5714,714,workday,7,40 to 60
